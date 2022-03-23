@@ -89,6 +89,7 @@ class NewsItem extends StatelessWidget {
                               )
                             ],
                           ),
+                          Text('helli World')
                         ],
                       )
                     ],
